@@ -1,3 +1,3 @@
-# ProjetoResponsivo-FLEXBOX
+# Animais-Curiosidades
 Site reponsivo usando Flexbox.
 
